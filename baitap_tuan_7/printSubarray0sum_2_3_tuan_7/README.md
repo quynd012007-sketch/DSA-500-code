@@ -7,6 +7,7 @@ input:
 output:
 - Các mảng con liên tiếp có tổng bằng 0
 2. Giải thuật 
+Thư viện sử dụng: <stdio.h>
 B1:
 - Nhập mảng a[n]
 B2:
